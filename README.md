@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Elbek Boltayev</h1>
 <h3 align="center">A passionate frontend developer from Shakhrisabz</h3>
 
+I am Elbek Boltayev. I am FrontEnd developer.I have been working as a web developer since 2022. I have worked in several places as a front-end developer. I have several projects.
+I know English
+
 ## Connect with me
 <p align="left">
 <a href="https://dev.to/elbekdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="elbekdev" height="30" width="40" /></a>
